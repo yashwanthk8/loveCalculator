@@ -85,7 +85,7 @@
       justify-content: center;
       align-items: center;
     }
- @media screen and (max-width: 404px) {
+ @media screen and (max-width: 491px) {
       #reason {
         color: white;
         font-family: 'Rubik';
