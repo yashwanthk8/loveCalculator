@@ -85,3 +85,12 @@
       justify-content: center;
       align-items: center;
     }
+ @media screen and (max-width: 404px) {
+      #reason {
+        color: white;
+        font-family: 'Rubik';
+        font-size: 23px;
+        margin-left: 45px;
+        font-weight: 600;
+      }
+    }
